@@ -19,3 +19,10 @@
 - 6 Android-Simple-Social-Sharing
 - 优点 代码开源
 - 缺点 基本没有文档 界面全需要自己实现
+
+
+### 新浪分享
+- SinaShare
+### 短信与电话分享
+- SmsEmailShare
+
